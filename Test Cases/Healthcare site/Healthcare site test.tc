@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Healthcare site test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aca74d3c-c110-48f3-bab5-5a178640eaf8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4dc65b9a-f65b-41bf-98e6-4ead74b203e1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2cde2159-ca7e-4a7a-9fca-50095ba43734</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1271ec4f-3a26-4363-8239-70f3fb0ee41d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>371a568d-0798-4481-a6ff-4a1395a9ca7e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>875fec9c-e073-477b-bffd-7e6cf4fdb7f4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ac10e69-3e0e-4b68-bf8d-f6500cf1d0a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com'</defaultValue>
+      <description>adres url</description>
+      <id>4dc65b9a-f65b-41bf-98e6-4ead74b203e1</id>
+      <masked>false</masked>
+      <name>urladdress</name>
+   </variable>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description>nazwa użytkownika</description>
+      <id>2cde2159-ca7e-4a7a-9fca-50095ba43734</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'tzH6RvlfSTg='</defaultValue>
+      <description>nieprawidłowe hasło</description>
+      <id>1271ec4f-3a26-4363-8239-70f3fb0ee41d</id>
+      <masked>false</masked>
+      <name>wrongpswd</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description>prawidłowe hasło</description>
+      <id>371a568d-0798-4481-a6ff-4a1395a9ca7e</id>
+      <masked>false</masked>
+      <name>correctpswd</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description>wybór z listy</description>
+      <id>875fec9c-e073-477b-bffd-7e6cf4fdb7f4</id>
+      <masked>false</masked>
+      <name>dropdown</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test comment'</defaultValue>
+      <description>komentaż</description>
+      <id>9ac10e69-3e0e-4b68-bf8d-f6500cf1d0a1</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

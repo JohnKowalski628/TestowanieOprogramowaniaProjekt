@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Swaglab test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52aac050-de93-41f8-8f61-80785cb06dda</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>184cb9a9-ec5b-47ea-91cb-b87fe4f049b0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>928b25f4-3d82-482a-bb7c-ab0d0beea38a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a153011-8bef-4a92-a5e4-c59c76025737</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8fd92626-de19-489a-ac58-0a9a56115481</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6205bb8-e5dd-4d50-9cff-3caf09aa57c5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ad7a200c-7809-4e04-ba98-3590056b3759</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.saucedemo.com/'</defaultValue>
+      <description>adres url</description>
+      <id>184cb9a9-ec5b-47ea-91cb-b87fe4f049b0</id>
+      <masked>false</masked>
+      <name>urladdress</name>
+   </variable>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description>nazwa użytkownika</description>
+      <id>928b25f4-3d82-482a-bb7c-ab0d0beea38a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'qcu24s4901FyWDTwXGr6XA=='</defaultValue>
+      <description>hasło</description>
+      <id>6a153011-8bef-4a92-a5e4-c59c76025737</id>
+      <masked>false</masked>
+      <name>pswd</name>
+   </variable>
+   <variable>
+      <defaultValue>'John'</defaultValue>
+      <description>imię użytkownika</description>
+      <id>8fd92626-de19-489a-ac58-0a9a56115481</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kowalski'</defaultValue>
+      <description>nazwisko użytkownika</description>
+      <id>b6205bb8-e5dd-4d50-9cff-3caf09aa57c5</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'00-000'</defaultValue>
+      <description>adres pocztowy użytkownika</description>
+      <id>ad7a200c-7809-4e04-ba98-3590056b3759</id>
+      <masked>false</masked>
+      <name>postalcode</name>
+   </variable>
+</TestCaseEntity>
